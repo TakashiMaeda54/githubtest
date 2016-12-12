@@ -1,2 +1,5 @@
 # githubtest
 test
+
+##メンバー
+*takashi
